@@ -1,0 +1,8 @@
+face_recognition
+numpy
+opencv-python
+# sudo apt install python3-opencv
+Pillow
+# sudo apt-get install cmake libx11-dev
+dlib
+# pip install dlib --install-option="--use-legacy-support"
